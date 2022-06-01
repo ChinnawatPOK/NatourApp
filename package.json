@@ -30,7 +30,7 @@
     "nodemailer": "^4.7.0",
     "nodemailer-sendgrid": "^1.0.3",
     "pug": "^3.0.0",
-    "sharp": "^0.25.4",
+    "sharp": "^0.30.5",
     "slugify": "^1.4.0",
     "stripe": "^8.63.0",
     "validator": "^13.0.0",
